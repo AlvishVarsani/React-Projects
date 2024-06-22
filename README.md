@@ -38,9 +38,11 @@ npm run dev
 ```
 This will start the Vite development server, and you can view your new React app in the browser at http://localhost:3000.
 
-## 2. **Counter Web A**
+## 2. **Counter Web Application**
 This React counter app allows users to interact with buttons that increment, decrement, and reset the count. It utilizes Vite for rapid development, emphasizing the use of useState for state management. Perfect for beginners to grasp React's foundational concepts or for creating quick, interactive demonstrations that illustrate basic interactivity and UI responsiveness.
 
+## 3. **Tailwind Props**
+The main objective of this project is to create a reusable card component using React and Tailwind CSS. The project will demonstrate various methods of passing props to the card component to customize its content and appearance.
 
 
 
