@@ -44,6 +44,11 @@ This React counter app allows users to interact with buttons that increment, dec
 ## 3. **Tailwind Props**
 The main objective of this project is to create a reusable card component using React and Tailwind CSS. The project will demonstrate various methods of passing props to the card component to customize its content and appearance.
 
+## 4. **Background Generator**
+A simple and easy-to-use background generator built with React. This project demonstrates the use of useState and useEffect hooks. It allows users to choose and apply background colors from a given set of options. Perfect for learning and experimenting with React hooks.
+
+## 5. **Password Generator**
+A React-based password generator project that allows users to create secure passwords with customizable options. Users can choose to include numbers, special characters, or exclude them. They can also set the desired password length and easily copy the generated password. This project leverages useState, useCallback, and useRef hooks, making it perfect for learning and experimenting with React hooks.
 
 
 
