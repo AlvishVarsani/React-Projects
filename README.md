@@ -50,6 +50,16 @@ A simple and easy-to-use background generator built with React. This project dem
 ## 5. **Password Generator**
 A React-based password generator project that allows users to create secure passwords with customizable options. Users can choose to include numbers, special characters, or exclude them. They can also set the desired password length and easily copy the generated password. This project leverages useState, useCallback, and useRef hooks, making it perfect for learning and experimenting with React hooks.
 
+## 6.**Currency Convertor**
+The Currency Converter React Project is a dynamic web application that allows users to convert between different currencies using real-time exchange rates. Utilizing a live API, users can select the currencies they want to convert from and to, ensuring accurate and up-to-date conversions. The application also features a swap function, enabling users to quickly reverse the selected currencies for convenience. With an intuitive interface and responsive design, the project provides a seamless user experience for tracking and converting currency values in real-time. Ideal for travelers, business professionals, and anyone needing quick currency conversions.
+
+## 7. **React Router**
+A production-level website using React Router offers seamless navigation and dynamic rendering for a robust user experience. It enables efficient route management, deep linking, and lazy loading for optimal performance. By leveraging features like nested routes, route guards, and dynamic routing, the application ensures secure and smooth transitions between pages. This setup is ideal for complex applications, such as e-commerce sites requiring high reliability and user-friendly navigation.
+
+
+
+
+
 
 
 
