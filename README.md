@@ -56,6 +56,8 @@ The Currency Converter React Project is a dynamic web application that allows us
 ## 7. **React Router**
 A production-level website using React Router offers seamless navigation and dynamic rendering for a robust user experience. It enables efficient route management, deep linking, and lazy loading for optimal performance. By leveraging features like nested routes, route guards, and dynamic routing, the application ensures secure and smooth transitions between pages. This setup is ideal for complex applications, such as e-commerce sites requiring high reliability and user-friendly navigation.
 
+## 8. **MiniContext**
+MiniContext is a lightweight React project designed to simplify state management for small to medium-sized applications. It leverages React's Context API to provide a seamless and efficient way to manage and share state across components without the complexity of external libraries. Ideal for developers seeking a straightforward solution, MiniContext enhances component communication, reduces boilerplate code, and improves maintainability by centralizing state logic, ensuring a clean and scalable architecture.
 
 
 
